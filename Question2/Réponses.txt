@@ -1,0 +1,13 @@
+1)
+
+Pour que la classe Pile puisse contenir non pas des objets de type String
+mais des objets de type quelconque:
+	Dans le cas ou a pile peut contenir des object de type héterogene
+		-> Remplacer chaque occurence String par Object ( voir code Pile1 & PileTest1 par ailleurs)
+
+2)
+
+Pour que la classe Pile puisse contenir non pas des objets de type String
+mais des objets de type quelconque:
+	Dans le cas ou a pile ne peut contenir que des objets du même type (ici String)
+		-> Recuperer la String.valueOf des objets à empiler ( voir code Pile2 & PileTest2 par ailleurs)

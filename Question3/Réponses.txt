@@ -1,0 +1,26 @@
+1)
+
+L'interface ne fait que declarer des methodes vides contrairement aux classes utilisées precedemment
+
+
+2)
+
+Avantages :
+
+	-> L'interface créer un comportement générique 
+	-> Plusieurs interfaces peuvent etre utilisées
+	-> Permet la réutilisation d'une meme structure et donc une homogeneité
+
+Inconvenients :
+
+	-> Definition obligatoire des methodes de l'interface dans les classes qui l'implemente
+
+
+3)
+
+Voir code joint
+
+4)
+
+Voir code joint
+
